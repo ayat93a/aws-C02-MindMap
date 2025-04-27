@@ -66,7 +66,8 @@
 - Use Roles for service permissions
 - Audit with Credential Reports and Access Advisor
 
-## Shared Responsibility Model
+## Shared Responsibility Model![IAM](https://github.com/user-attachments/assets/e583af0c-78ec-46b8-b5f9-3ee32ea4225d)
+
 ### AWS manages:
 - Global infrastructure security
 - Physical data centers
@@ -76,3 +77,5 @@
 - MFA and Key rotation
 - Permissions monitoring
 - Data access
+
+
